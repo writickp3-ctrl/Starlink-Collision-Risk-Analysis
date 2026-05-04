@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data (IMPORTANT — avoid pushing heavy or generated files)
+data/processed/
+outputs/
+
+# Power BI temp files
+*.pbix.lock
+
+# VS Code
+.vscode/
+
+# Large files
+*.zip
+
+# Cache
+.cache/
